@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">movie-android</string>
+    <string name="placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis lobortis rutrum efficitur. Donec purus arcu, dictum a lectus et, semper cursus mi. Aenean tristique ac orci in aliquet. Etiam nulla tortor, efficitur at fermentum nec, vestibulum non ante. Fusce aliquet molestie nisi, nec convallis mi volutpat ut. Mauris mollis molestie lacus, sed dignissim nisi consequat eget. Nam a eleifend turpis.</string>
+</resources>
